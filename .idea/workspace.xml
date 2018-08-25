@@ -3,42 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="5ff8e6ba-83f5-4230-85ca-25c2d4663f7f" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ex4.1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ex4.2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ex4.3.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ex4.4.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ex5.1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ex5.2.1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ex5.2.2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ex5.2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ex5.3.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ex5.4.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Filled_Sudoku.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Gambler's Fallacy.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Modinv.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PS.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PSgen.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PSlist.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Riemann Zeta Function.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Sierpinski.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/decode.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/encryption.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/filename.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gcd.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gen_Sudoku.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gen_key.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lol_model1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lol_model2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/params.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/repdigit.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/rptnlist.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/simulator.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tn.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tna5.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/windowtest.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/夏季電費.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/水費.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/非夏季電費.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/雜想/Riemann Zeta Function.py" beforeDir="false" afterPath="$PROJECT_DIR$/雜想/Riemann Zeta Function.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -52,8 +17,8 @@
       <file leaf-file-name="Riemann Zeta Function.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/雜想/Riemann Zeta Function.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="352">
-              <caret line="35" column="44" selection-start-line="35" selection-start-column="44" selection-end-line="35" selection-end-column="44" />
+            <state relative-caret-position="528">
+              <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
               <folding>
                 <element signature="e#0#31#0" expanded="true" />
               </folding>
@@ -136,7 +101,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="5" />
     <option name="y" value="5" />
     <option name="width" value="1110" />
@@ -289,7 +254,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14257812" />
@@ -374,8 +339,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/雜想/Riemann Zeta Function.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
-          <caret line="35" column="44" selection-start-line="35" selection-start-column="44" selection-end-line="35" selection-end-column="44" />
+        <state relative-caret-position="528">
+          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
           <folding>
             <element signature="e#0#31#0" expanded="true" />
           </folding>

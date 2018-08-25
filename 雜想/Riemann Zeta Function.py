@@ -4,7 +4,7 @@ import numpy as np
 def R(s,t,n):
   return -np.sin(t*np.log(n))/n**s
 
-def L(s,t, n):
+def L(s,t,n):
   return np.cos(t*np.log(n))/n**s
 
 def zeta_real(s,t, m):
@@ -22,8 +22,10 @@ S2 = 1+1/S1
 Y = np.arange(-5, 5, 0.01)
 points1 = [(s,t) for s in S1 for t in Y] + [(s,t) for s in S2 for t in Y]
 domain1 = [s+t*1j for (s,t) in points1]
+
 VX = [x.real for x in domain1]
 VY = [x.imag for x in domain1]
+
 plt.scatter(VX,VY,color = 'c', s=1**2)
 
 #All horizontal lines
@@ -38,6 +40,7 @@ domain2 = [s+t*1j for (s,t) in points2]
 HX = [x.real for x in domain2]
 HY = [x.imag for x in domain2]
 plt.scatter(HX,HY,color = 'm', s=1**2)
+
 
 
 plt.savefig("Riemann Zeta.png")
