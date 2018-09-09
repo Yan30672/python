@@ -2,8 +2,52 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5ff8e6ba-83f5-4230-85ca-25c2d4663f7f" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/points_ani.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.tmp.drivedownload/1104376.driveupload" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.tmp.drivedownload/1116196.driveupload" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.tmp.drivedownload/1318827.driveupload" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.tmp.drivedownload/1382892.driveupload" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.tmp.drivedownload/1836517.driveupload" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.tmp.drivedownload/2208625.driveupload" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.tmp.drivedownload/2282701.driveupload" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.tmp.drivedownload/2735244.driveupload" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.tmp.drivedownload/2786933.driveupload" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.tmp.drivedownload/2917911.driveupload" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.tmp.drivedownload/3007934.driveupload" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.tmp.drivedownload/3028199.driveupload" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.tmp.drivedownload/3322405.driveupload" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.tmp.drivedownload/3516849.driveupload" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.tmp.drivedownload/3629477.driveupload" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.tmp.drivedownload/3773103.driveupload" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.tmp.drivedownload/3787747.driveupload" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.tmp.drivedownload/3968948.driveupload" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.tmp.drivedownload/4015820.driveupload" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.tmp.drivedownload/4020903.driveupload" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.tmp.drivedownload/4094961.driveupload" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.tmp.drivedownload/4128440.driveupload" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.tmp.drivedownload/4910543.driveupload" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.tmp.drivedownload/4960281.driveupload" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.tmp.drivedownload/5948854.driveupload" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.tmp.drivedownload/6206338.driveupload" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.tmp.drivedownload/6590789.driveupload" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.tmp.drivedownload/6688005.driveupload" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.tmp.drivedownload/7311377.driveupload" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.tmp.drivedownload/7522029.driveupload" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.tmp.drivedownload/7542757.driveupload" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.tmp.drivedownload/7789565.driveupload" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.tmp.drivedownload/8040144.driveupload" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.tmp.drivedownload/8487252.driveupload" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.tmp.drivedownload/8596833.driveupload" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.tmp.drivedownload/8597871.driveupload" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.tmp.drivedownload/8601859.driveupload" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.tmp.drivedownload/8823684.driveupload" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.tmp.drivedownload/9707520.driveupload" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.tmp.drivedownload/9771145.driveupload" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.tmp.drivedownload/9866227.driveupload" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.tmp.drivedownload/9869717.driveupload" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/雜想/Riemann Zeta Function.py" beforeDir="false" afterPath="$PROJECT_DIR$/雜想/Riemann Zeta Function.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/雜想/Riemann Zeta.png" beforeDir="false" afterPath="$PROJECT_DIR$/雜想/Riemann Zeta.png" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -17,10 +61,22 @@
       <file leaf-file-name="Riemann Zeta Function.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/雜想/Riemann Zeta Function.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="528">
-              <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+            <state relative-caret-position="542">
+              <caret line="53" column="13" selection-start-line="53" selection-start-column="13" selection-end-line="53" selection-end-column="13" />
               <folding>
                 <element signature="e#0#31#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="points_ani.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/points_ani.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="374">
+              <caret line="19" column="19" selection-start-line="19" selection-start-column="19" selection-end-line="19" selection-end-column="19" />
+              <folding>
+                <element signature="e#0#18#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -97,6 +153,8 @@
         <option value="$PROJECT_DIR$/decode.py" />
         <option value="$PROJECT_DIR$/Filled_Sudoku.py" />
         <option value="$PROJECT_DIR$/Riemann Zeta Function.py" />
+        <option value="$PROJECT_DIR$/point_movement.py" />
+        <option value="$PROJECT_DIR$/points_ani.py" />
         <option value="$PROJECT_DIR$/雜想/Riemann Zeta Function.py" />
       </list>
     </option>
@@ -106,6 +164,9 @@
     <option name="y" value="5" />
     <option name="width" value="1110" />
     <option name="height" value="970" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -187,7 +248,7 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="decode" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="point_movement" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="workspace" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -199,13 +260,13 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/decode.py" />
+      <option name="SCRIPT_NAME" value="C:\python\points_ani.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="gen_Sudoku" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="points_ani" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="workspace" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -217,7 +278,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/gen_Sudoku.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/points_ani.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -225,18 +286,18 @@
     </configuration>
     <list>
       <item itemvalue="Python.Filled_Sudoku" />
-      <item itemvalue="Python.decode" />
-      <item itemvalue="Python.gen_Sudoku" />
       <item itemvalue="Python.Riemann Zeta Function" />
       <item itemvalue="Python.Riemann Zeta Function (1)" />
+      <item itemvalue="Python.point_movement" />
+      <item itemvalue="Python.points_ani" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="Python.Riemann Zeta Function (1)" />
+        <item itemvalue="Python.points_ani" />
+        <item itemvalue="Python.point_movement" />
         <item itemvalue="Python.Filled_Sudoku" />
         <item itemvalue="Python.Riemann Zeta Function" />
-        <item itemvalue="Python.gen_Sudoku" />
-        <item itemvalue="Python.decode" />
       </list>
     </recent_temporary>
   </component>
@@ -285,7 +346,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Ex4.3.py" />
     <entry file="file://$PROJECT_DIR$/Ex4.2.py" />
     <entry file="file://$PROJECT_DIR$/PS.py" />
     <entry file="file://$PROJECT_DIR$/PSgen.py" />
@@ -337,10 +397,20 @@
     <entry file="file://$PROJECT_DIR$/rep digit tri number theory/repdigit.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/points_ani.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="19" column="19" selection-start-line="19" selection-start-column="19" selection-end-line="19" selection-end-column="19" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/雜想/Riemann Zeta Function.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="528">
-          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+        <state relative-caret-position="542">
+          <caret line="53" column="13" selection-start-line="53" selection-start-column="13" selection-end-line="53" selection-end-column="13" />
           <folding>
             <element signature="e#0#31#0" expanded="true" />
           </folding>
