@@ -2,79 +2,57 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5ff8e6ba-83f5-4230-85ca-25c2d4663f7f" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/points_ani.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/arraytograyscale.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.tmp.drivedownload/1104376.driveupload" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.tmp.drivedownload/1116196.driveupload" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.tmp.drivedownload/1318827.driveupload" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.tmp.drivedownload/1382892.driveupload" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.tmp.drivedownload/1836517.driveupload" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.tmp.drivedownload/2208625.driveupload" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.tmp.drivedownload/2282701.driveupload" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.tmp.drivedownload/2735244.driveupload" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.tmp.drivedownload/2786933.driveupload" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.tmp.drivedownload/2917911.driveupload" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.tmp.drivedownload/3007934.driveupload" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.tmp.drivedownload/3028199.driveupload" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.tmp.drivedownload/3322405.driveupload" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.tmp.drivedownload/3516849.driveupload" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.tmp.drivedownload/3629477.driveupload" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.tmp.drivedownload/3773103.driveupload" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.tmp.drivedownload/3787747.driveupload" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.tmp.drivedownload/3968948.driveupload" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.tmp.drivedownload/4015820.driveupload" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.tmp.drivedownload/4020903.driveupload" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.tmp.drivedownload/4094961.driveupload" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.tmp.drivedownload/4128440.driveupload" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.tmp.drivedownload/4910543.driveupload" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.tmp.drivedownload/4960281.driveupload" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.tmp.drivedownload/5948854.driveupload" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.tmp.drivedownload/6206338.driveupload" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.tmp.drivedownload/6590789.driveupload" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.tmp.drivedownload/6688005.driveupload" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.tmp.drivedownload/7311377.driveupload" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.tmp.drivedownload/7522029.driveupload" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.tmp.drivedownload/7542757.driveupload" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.tmp.drivedownload/7789565.driveupload" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.tmp.drivedownload/8040144.driveupload" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.tmp.drivedownload/8487252.driveupload" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.tmp.drivedownload/8596833.driveupload" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.tmp.drivedownload/8597871.driveupload" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.tmp.drivedownload/8601859.driveupload" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.tmp.drivedownload/8823684.driveupload" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.tmp.drivedownload/9707520.driveupload" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.tmp.drivedownload/9771145.driveupload" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.tmp.drivedownload/9866227.driveupload" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.tmp.drivedownload/9869717.driveupload" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/雜想/Riemann Zeta Function.py" beforeDir="false" afterPath="$PROJECT_DIR$/雜想/Riemann Zeta Function.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/雜想/Riemann Zeta.png" beforeDir="false" afterPath="$PROJECT_DIR$/雜想/Riemann Zeta.png" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
-    <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="251574641">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="4" />
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.open.time.5" value="3" />
+          <entry key="project.open.time.7" value="1" />
+          <entry key="project.opened" value="5" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="py" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.vcs.git.usages" />
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Python" value="1" />
+          <entry key="Scratch" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="py" value="222" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Python" value="222" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Riemann Zeta Function.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/雜想/Riemann Zeta Function.py">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/arraytograyscale.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="542">
-              <caret line="53" column="13" selection-start-line="53" selection-start-column="13" selection-end-line="53" selection-end-column="13" />
-              <folding>
-                <element signature="e#0#31#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="points_ani.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/points_ani.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="19" column="19" selection-start-line="19" selection-start-column="19" selection-end-line="19" selection-end-column="19" />
+            <state relative-caret-position="132">
+              <caret line="6" column="12" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="12" />
               <folding>
                 <element signature="e#0#18#0" expanded="true" />
               </folding>
@@ -156,6 +134,7 @@
         <option value="$PROJECT_DIR$/point_movement.py" />
         <option value="$PROJECT_DIR$/points_ani.py" />
         <option value="$PROJECT_DIR$/雜想/Riemann Zeta Function.py" />
+        <option value="$PROJECT_DIR$/arraytograyscale.py" />
       </list>
     </option>
   </component>
@@ -173,11 +152,22 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane" />
       <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="python" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Python" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.sourceCode.Python" />
   </component>
@@ -193,8 +183,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Riemann Zeta Function (1)">
-    <configuration name="Filled_Sudoku" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.arraytograyscale">
+    <configuration name="夏季電費" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="workspace" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -202,15 +192,39 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/實用的" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Filled_Sudoku.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/實用的/夏季電費.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Filled_Sudoku (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="workspace" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Sudoku" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Sudoku/Filled_Sudoku.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
     </configuration>
     <configuration name="Riemann Zeta Function (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="workspace" />
@@ -229,8 +243,11 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
     </configuration>
-    <configuration name="Riemann Zeta Function" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="arraytograyscale" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="workspace" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -242,29 +259,14 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Riemann Zeta Function.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/arraytograyscale.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="point_movement" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="workspace" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\python\points_ani.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
     </configuration>
     <configuration name="points_ani" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="workspace" />
@@ -283,21 +285,24 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.Filled_Sudoku" />
-      <item itemvalue="Python.Riemann Zeta Function" />
       <item itemvalue="Python.Riemann Zeta Function (1)" />
-      <item itemvalue="Python.point_movement" />
       <item itemvalue="Python.points_ani" />
+      <item itemvalue="Python.夏季電費" />
+      <item itemvalue="Python.Filled_Sudoku (1)" />
+      <item itemvalue="Python.arraytograyscale" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.arraytograyscale" />
+        <item itemvalue="Python.Filled_Sudoku (1)" />
+        <item itemvalue="Python.夏季電費" />
         <item itemvalue="Python.Riemann Zeta Function (1)" />
         <item itemvalue="Python.points_ani" />
-        <item itemvalue="Python.point_movement" />
-        <item itemvalue="Python.Filled_Sudoku" />
-        <item itemvalue="Python.Riemann Zeta Function" />
       </list>
     </recent_temporary>
   </component>
@@ -316,25 +321,24 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14257812" />
-      <window_info anchor="bottom" id="TODO" order="5" />
-      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info anchor="bottom" id="Python Console" order="6" />
-      <window_info active="true" anchor="right" id="Run" order="3" visible="true" weight="0.31445312" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14410187" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Debug" order="2" weight="0.4" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Debug" order="2" weight="0.39716312" />
+      <window_info anchor="bottom" id="Cvs" order="3" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="5" />
+      <window_info anchor="bottom" id="Python Console" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="3" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Run" order="3" weight="0.31434315" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -342,77 +346,78 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="2" />
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Sudoku/Filled_Sudoku.py</url>
+          <line>128</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Sudoku/Filled_Sudoku.py</url>
+          <line>165</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Sudoku/Filled_Sudoku.py</url>
+          <line>254</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Sudoku/Filled_Sudoku.py</url>
+          <line>257</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Sudoku/Filled_Sudoku.py</url>
+          <line>272</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Sudoku/Filled_Sudoku.py</url>
+          <line>305</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+      </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Ex4.2.py" />
-    <entry file="file://$PROJECT_DIR$/PS.py" />
-    <entry file="file://$PROJECT_DIR$/PSgen.py" />
-    <entry file="file://$PROJECT_DIR$/simulator.py" />
-    <entry file="file://$PROJECT_DIR$/lol_model.py" />
-    <entry file="file://$PROJECT_DIR$/Sierpinski.py" />
-    <entry file="file://$PROJECT_DIR$/Ex4.1.py" />
-    <entry file="file://$PROJECT_DIR$/simulator.py" />
-    <entry file="file://$PROJECT_DIR$/venv/Jayce.py" />
-    <entry file="file://$PROJECT_DIR$/binomialtest.py" />
-    <entry file="file://$PROJECT_DIR$/tn.py" />
-    <entry file="file://$PROJECT_DIR$/水費.py" />
-    <entry file="file://$PROJECT_DIR$/非夏季電費.py" />
-    <entry file="file://$PROJECT_DIR$/repdigit.py" />
-    <entry file="file://$PROJECT_DIR$/PS.py" />
-    <entry file="file://$PROJECT_DIR$/gcd.py" />
-    <entry file="file://$PROJECT_DIR$/PSgen.py" />
-    <entry file="file://$PROJECT_DIR$/simulator.py" />
-    <entry file="file://$PROJECT_DIR$/lol_model3.py" />
-    <entry file="file://$PROJECT_DIR$/Ex5.1.py" />
-    <entry file="file://$PROJECT_DIR$/Ex5.2.py" />
-    <entry file="file://$PROJECT_DIR$/Ex4.2.py" />
-    <entry file="file://$PROJECT_DIR$/Ex4.1.py" />
-    <entry file="file://$PROJECT_DIR$/Ex4.3.py" />
-    <entry file="file://$PROJECT_DIR$/tna5.py" />
-    <entry file="file://$PROJECT_DIR$/Ex4.4.py" />
-    <entry file="file://$PROJECT_DIR$/windowtest.py" />
-    <entry file="file://$PROJECT_DIR$/practice tool.py" />
-    <entry file="file://$PROJECT_DIR$/lol_model.py" />
-    <entry file="file://$PROJECT_DIR$/lol_model2.py" />
-    <entry file="file://$PROJECT_DIR$/lol_model1.py" />
-    <entry file="file://$PROJECT_DIR$/simulator.py" />
-    <entry file="file://$PROJECT_DIR$/params.py" />
-    <entry file="file://$PROJECT_DIR$/Gambler's Fallacy.py" />
-    <entry file="file://$PROJECT_DIR$/Ex5.2.1.py" />
-    <entry file="file://$PROJECT_DIR$/Ex5.2.2.py" />
-    <entry file="file://$PROJECT_DIR$/Ex5.2.py" />
-    <entry file="file://$PROJECT_DIR$/Ex5.3.py" />
-    <entry file="file://$PROJECT_DIR$/Ex5.4.py" />
-    <entry file="file://$PROJECT_DIR$/夏季電費.py" />
-    <entry file="file://$PROJECT_DIR$/Sudoku.py" />
-    <entry file="file://$PROJECT_DIR$/gen_Sudoku.py" />
-    <entry file="file://$PROJECT_DIR$/encryption.py" />
-    <entry file="file://$PROJECT_DIR$/decode.py" />
-    <entry file="file://$PROJECT_DIR$/gen_key.py" />
-    <entry file="file://$PROJECT_DIR$/Sierpinski.py" />
-    <entry file="file://$PROJECT_DIR$/Riemann Zeta Function.py" />
-    <entry file="file://$PROJECT_DIR$/Filled_Sudoku.py" />
-    <entry file="file://$PROJECT_DIR$/rep digit tri number theory/repdigit.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/points_ani.py">
+    <entry file="file://$PROJECT_DIR$/實用的/夏季電費.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="19" column="19" selection-start-line="19" selection-start-column="19" selection-end-line="19" selection-end-column="19" />
-          <folding>
-            <element signature="e#0#18#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="242">
+          <caret line="11" column="27" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="27" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/雜想/Riemann Zeta Function.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="542">
+        <state relative-caret-position="630">
           <caret line="53" column="13" selection-start-line="53" selection-start-column="13" selection-end-line="53" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/points_ani.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="19" column="19" selection-start-line="19" selection-start-column="19" selection-end-line="19" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Sudoku/Filled_Sudoku.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="134" selection-start-line="134" selection-end-line="134" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/arraytograyscale.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="12" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="12" />
           <folding>
-            <element signature="e#0#31#0" expanded="true" />
+            <element signature="e#0#18#0" expanded="true" />
           </folding>
         </state>
       </provider>
